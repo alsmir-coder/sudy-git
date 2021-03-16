@@ -1,2 +1,2 @@
 document.body.innerHTML="Hello JavaSccript"
-console.log("Hello")
+console.log("Byу Byу!!!")
